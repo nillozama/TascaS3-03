@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Principal_S3_03 {
+public class Principal {
 	
     private static List<Product> stock = new ArrayList<Product>();
     private static List<Ticket> ticketList = new ArrayList<Ticket>();
